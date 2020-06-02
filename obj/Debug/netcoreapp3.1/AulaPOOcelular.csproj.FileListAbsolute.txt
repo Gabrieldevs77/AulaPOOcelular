@@ -1,0 +1,13 @@
+C:\Users\gabriel\Documents\GitHub\AulaPOOcelular\bin\Debug\netcoreapp3.1\AulaPOOcelular.exe
+C:\Users\gabriel\Documents\GitHub\AulaPOOcelular\bin\Debug\netcoreapp3.1\AulaPOOcelular.deps.json
+C:\Users\gabriel\Documents\GitHub\AulaPOOcelular\bin\Debug\netcoreapp3.1\AulaPOOcelular.runtimeconfig.json
+C:\Users\gabriel\Documents\GitHub\AulaPOOcelular\bin\Debug\netcoreapp3.1\AulaPOOcelular.runtimeconfig.dev.json
+C:\Users\gabriel\Documents\GitHub\AulaPOOcelular\bin\Debug\netcoreapp3.1\AulaPOOcelular.dll
+C:\Users\gabriel\Documents\GitHub\AulaPOOcelular\bin\Debug\netcoreapp3.1\AulaPOOcelular.pdb
+C:\Users\gabriel\Documents\GitHub\AulaPOOcelular\obj\Debug\netcoreapp3.1\AulaPOOcelular.csprojAssemblyReference.cache
+C:\Users\gabriel\Documents\GitHub\AulaPOOcelular\obj\Debug\netcoreapp3.1\AulaPOOcelular.AssemblyInfoInputs.cache
+C:\Users\gabriel\Documents\GitHub\AulaPOOcelular\obj\Debug\netcoreapp3.1\AulaPOOcelular.AssemblyInfo.cs
+C:\Users\gabriel\Documents\GitHub\AulaPOOcelular\obj\Debug\netcoreapp3.1\AulaPOOcelular.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Documents\GitHub\AulaPOOcelular\obj\Debug\netcoreapp3.1\AulaPOOcelular.dll
+C:\Users\gabriel\Documents\GitHub\AulaPOOcelular\obj\Debug\netcoreapp3.1\AulaPOOcelular.pdb
+C:\Users\gabriel\Documents\GitHub\AulaPOOcelular\obj\Debug\netcoreapp3.1\AulaPOOcelular.genruntimeconfig.cache
